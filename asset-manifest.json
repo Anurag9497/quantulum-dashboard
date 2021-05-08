@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/quantulum-dashboard/static/css/main.5dbb3b50.chunk.css",
+    "main.js": "/quantulum-dashboard/static/js/main.039388f6.chunk.js",
+    "main.js.map": "/quantulum-dashboard/static/js/main.039388f6.chunk.js.map",
+    "runtime-main.js": "/quantulum-dashboard/static/js/runtime-main.413e90d2.js",
+    "runtime-main.js.map": "/quantulum-dashboard/static/js/runtime-main.413e90d2.js.map",
+    "static/js/2.51053bdc.chunk.js": "/quantulum-dashboard/static/js/2.51053bdc.chunk.js",
+    "static/js/2.51053bdc.chunk.js.map": "/quantulum-dashboard/static/js/2.51053bdc.chunk.js.map",
+    "static/js/3.a4b4e7d6.chunk.js": "/quantulum-dashboard/static/js/3.a4b4e7d6.chunk.js",
+    "static/js/3.a4b4e7d6.chunk.js.map": "/quantulum-dashboard/static/js/3.a4b4e7d6.chunk.js.map",
+    "index.html": "/quantulum-dashboard/index.html",
+    "static/css/main.5dbb3b50.chunk.css.map": "/quantulum-dashboard/static/css/main.5dbb3b50.chunk.css.map",
+    "static/js/2.51053bdc.chunk.js.LICENSE.txt": "/quantulum-dashboard/static/js/2.51053bdc.chunk.js.LICENSE.txt",
+    "static/media/vanguard-logo-white_2.f2263482.png": "/quantulum-dashboard/static/media/vanguard-logo-white_2.f2263482.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.413e90d2.js",
+    "static/js/2.51053bdc.chunk.js",
+    "static/css/main.5dbb3b50.chunk.css",
+    "static/js/main.039388f6.chunk.js"
+  ]
+}
